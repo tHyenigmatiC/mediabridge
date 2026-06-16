@@ -6,7 +6,7 @@ MediaBridge provides a streamlined workflow for downloading, organizing, and pro
 
 ## Download
 
-Download the latest version from the **Releases** section of this repository.
+Download the latest version from the **[Releases](https://github.com/tHyenigmatiC/mediabridge/releases)** section of this repository.
 
 ### Supported Platforms
 
