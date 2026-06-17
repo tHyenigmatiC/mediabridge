@@ -1,5 +1,7 @@
 # MediaBridge
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T1L121KCUA)
+
 Cross-platform desktop application for personal media management and offline access.
 
 MediaBridge provides a streamlined workflow for downloading, organizing, and processing media files through a simple desktop interface.
